@@ -1,2 +1,1 @@
-# youtubee-asistant
- 
+# youtube-clip-chrome-extension
